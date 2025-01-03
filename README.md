@@ -1,39 +1,19 @@
-<h1 align='center'><a id="typo" href="https://git.io/typing-svg"><img src="https://media.istockphoto.com/id/1334591614/photo/man-using-digital-tablet-online-connect-to-internet-banking-currency-exchange-online-shopping.jpg?s=612x612&w=0&k=20&c=nejA5SuHcN2fAdO7Bkaf9pJrwzyLPBCyOLZgMaslGko" alt="Typing SVG" /></a></h1>
+<h1 align="center">Hi 👋, I'm Neevikkumar k</h1>
+<h3 align="center">A Passionate Python Full Stack Developer from India</h3>
 
-<h3 align="center">About Me !!</h3>
-<br>
-<img align="right" alt="Coding" height='250' width="400" <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtzh7jCQ3WmYxKjfXsx_LfzNEYpG1jGfeKQg&usqp=CAU">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=neevikkumar&label=Profile%20views&color=0e75b6&style=flat" alt="neevikkumar" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrabhaCodz&label=Profile%20views&color=0e75b6&style=plastic" /> </p>
-
-
- @PrabhaCodz here!!
-
-<h1 align="center">Hi 👋, I'm Neevikkumar.K</h1>
-<h3 align="center">An Exploring and Passionate Python Full Stack Developer</h3>
-
-- 🌱 I’m currently learning   **Full-Stack**
-
-- 👯 I’m looking to collaborate on **Python and Full-Stack Development**
-
-- 💬 Ask me about **React , Front-End Development**
+- 🌱 I’m currently learning **Springboot and full stack**
 
 - 📫 How to reach me **neevikkumar111@gmail.com**
 
-- ⚡ Fun fact **I think coding is fun and interesting part**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HqtYOW3W_0ub_5QYTHx87mEzDL5rvmm6/view?usp=drivesdk](https://drive.google.com/file/d/1HqtYOW3W_0ub_5QYTHx87mEzDL5rvmm6/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-## Tech Stack
-![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![express](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white) ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![mui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-## Tools
-![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
 

@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Neevikkumar</h1>
 <h3 align="center">A passionate python full stack developer from India</h3>
 
-- 🌱 I’m currently learning **data analysis with python,Springboot**
+- 🌱 I’m currently learning **data analysis with python,Springboot.**
 
 - 📫 How to reach me **n@gmail.com**
 
